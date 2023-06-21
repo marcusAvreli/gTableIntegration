@@ -1,0 +1,40 @@
+2023-06-19 18:04:23.912 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-19 18:04:23.970 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-06-19 18:04:23.970 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-06-19 18:04:23.971 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:23)] - default_constructor
+2023-06-19 18:04:23.990 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.createComponent(GTable.java:189)] - create_component_started
+2023-06-19 18:04:24.012 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.<init>(DynamicTableModel.java:182)] - dynamic_tabled_model_constructor_started
+2023-06-19 18:04:24.012 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.<init>(DynamicTableModel.java:201)] - listaColumnas_is_not_null:4
+2023-06-19 18:04:24.012 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.buildTabla(DynamicTableModel.java:477)] - build_Tabla_started
+2023-06-19 18:04:24.014 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.buildRows(DynamicTableModel.java:605)] - build_rows_started
+2023-06-19 18:04:24.016 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.buildRows(DynamicTableModel.java:673)] - build_rows_finished
+2023-06-19 18:04:24.017 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.buildTabla(DynamicTableModel.java:595)] - build_Tabla_finished
+2023-06-19 18:04:24.017 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.DynamicTableModel.<init>(DynamicTableModel.java:209)] - dynamic_tabled_model_constructor_finished
+2023-06-19 18:04:24.034 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:833)] - build_renders_started
+2023-06-19 18:04:24.034 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:0
+2023-06-19 18:04:24.034 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:882)] - idProp:1
+2023-06-19 18:04:24.034 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:888)] - type_field:4
+2023-06-19 18:04:24.034 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:1
+2023-06-19 18:04:24.035 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:882)] - idProp:1
+2023-06-19 18:04:24.035 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:888)] - type_field:4
+2023-06-19 18:04:24.035 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:2
+2023-06-19 18:04:24.035 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:882)] - idProp:1
+2023-06-19 18:04:24.035 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:888)] - type_field:4
+2023-06-19 18:04:24.035 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:3
+2023-06-19 18:04:24.039 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:882)] - idProp:1
+2023-06-19 18:04:24.039 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:888)] - type_field:7
+2023-06-19 18:04:24.039 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:930)] - boolean column
+2023-06-19 18:04:24.039 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:931)] - boolean column:SELECTION
+2023-06-19 18:04:24.044 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:31)] - 1111111111111
+2023-06-19 18:04:24.044 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:33)] - build check cell editor
+2023-06-19 18:04:24.044 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:40)] - create editor
+2023-06-19 18:04:24.045 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:46)] - configure check editor
+2023-06-19 18:04:24.046 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.buildRenders(GTable.java:961)] - build_renders_finished
+2023-06-19 18:04:24.047 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.createComponent(GTable.java:455)] - containerDriven:false
+2023-06-19 18:04:24.047 INFO [AWT-EventQueue-0] [gtableIntegration.swing.table.GTable.createComponent(GTable.java:703)] - create_component_finished
+2023-06-19 18:04:24.049 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-06-19 18:04:24.049 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-06-19 18:04:24.049 INFO [AWT-EventQueue-0] [gtableIntegration.ViewManager.addView(ViewManager.java:36)] - is not null
+2023-06-19 18:04:24.049 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-06-19 18:04:24.050 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-06-19 18:04:24.050 INFO [AWT-EventQueue-0] [gtableIntegration.ViewManager.addView(ViewManager.java:42)] - is not null

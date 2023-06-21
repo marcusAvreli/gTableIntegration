@@ -1,0 +1,21 @@
+2023-06-15 19:28:48.892 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-15 19:28:48.961 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:87)] - size:40
+2023-06-15 19:28:48.974 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:124)] - start_build_render
+2023-06-15 19:28:48.975 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:134)] - hello
+2023-06-15 19:28:48.975 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:134)] - hello
+2023-06-15 19:28:48.975 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:134)] - hello
+2023-06-15 19:28:48.975 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:142)] - m_modoFilter:false
+2023-06-15 19:28:48.982 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:31)] - 1111111111111
+2023-06-15 19:28:48.982 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:32)] - build check cell editor
+2023-06-15 19:28:48.982 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:39)] - create editor
+2023-06-15 19:28:48.983 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:45)] - configure check editor
+2023-06-15 19:28:48.986 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:154)] - finish_build_render
+2023-06-15 19:28:48.986 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.addAll(DynamicTableModel.java:69)] - 2222222222222222
+2023-06-15 19:28:49.035 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckHeaderRenderer.getTableCellRendererComponent(CheckHeaderRenderer.java:53)] - getTableCellRendererComponent:false
+2023-06-15 19:28:49.036 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckHeaderRenderer.getTableCellRendererComponent(CheckHeaderRenderer.java:53)] - getTableCellRendererComponent:false
+2023-06-15 19:28:49.055 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckHeaderRenderer.getTableCellRendererComponent(CheckHeaderRenderer.java:53)] - getTableCellRendererComponent:false
+2023-06-15 19:28:49.091 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckHeaderRenderer.getTableCellRendererComponent(CheckHeaderRenderer.java:53)] - getTableCellRendererComponent:false
+2023-06-15 19:28:49.092 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckHeaderRenderer.getTableCellRendererComponent(CheckHeaderRenderer.java:53)] - getTableCellRendererComponent:false
+2023-06-15 19:28:49.097 INFO [AWT-EventQueue-0] [gtableIntegration.GTable$1.focusGained(GTable.java:50)] - focus_gained
+2023-06-15 19:28:49.097 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.notifyFocusListener(GTable.java:165)] - 1111111111111
+2023-06-15 19:28:49.097 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.getRowCount(GTable.java:174)] - 1111111111111

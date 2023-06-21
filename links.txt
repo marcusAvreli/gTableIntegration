@@ -1,0 +1,15 @@
+https://github.com/semantic-web-software/dynagent/blob/a0d356169ef34f3d2422e235fed7866e3dda6d8a/Elecom/src/gdev/gawt/GTable.java
+
+https://github.com/rmt2bsc/application_framework_suite/blob/631862d782c6812df90b15fdcac910317e7db8b8/fw_parent/fw_swing/src/main/java/com/ui/components/table/TableColumnDefinition.java#L16
+https://github.com/rmt2bsc/application_framework_suite/blob/631862d782c6812df90b15fdcac910317e7db8b8/fw_parent/fw_swing/src/main/java/com/ui/components/ColumnDefinition.java#L10
+https://github.com/semantic-web-software/dynagent/blob/a0d356169ef34f3d2422e235fed7866e3dda6d8a/Elecom/src/gdev/gfld/GTableColumn.java
+https://github.com/semantic-web-software/dynagent/blob/a0d356169ef34f3d2422e235fed7866e3dda6d8a/Elecom/src/gdev/gen/GConst.java
+
+
+//https://github.com/NCIP/cab2b
+//https://github.com/Nepxion/Marvel
+//https://www.codeproject.com/Articles/36170/Simple-and-Powerful-TableModel-with-Reflection
+//j-lawyer-org/j-lawyer-server-entities/src/java/com/jdimension/jlawyer/persistence/AppOptionGroupBean.java
+//https://www.oracle.com/technical-resources/articles/javase/locale.html
+//https://github.com/semantic-web-software/dynagent/tree/master/Elecom
+///https://github.com/semantic-web-software/dynagent/blob/a0d356169ef34f3d2422e235fed7866e3dda6d8a/Elecom/src/gdev/gawt/GTable.java

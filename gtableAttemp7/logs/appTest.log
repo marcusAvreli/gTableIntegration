@@ -1,0 +1,24 @@
+2023-06-19 18:04:06.523 ERROR [main] [gtableIntegration.core.core.AbstractApplicationLauncher.<init>(AbstractApplicationLauncher.java:59)] - Application init failed: null
+2023-06-19 18:04:06.532 INFO [SwingWorker-pool-2-thread-1] [gtableIntegration.core.core.AbstractApplication.<init>(AbstractApplication.java:60)] - constructor_0
+2023-06-19 18:04:06.566 INFO [SwingWorker-pool-2-thread-1] [gtableIntegration.core.core.AbstractApplication.prepare(AbstractApplication.java:113)] - Application preparing!
+2023-06-19 18:04:06.572 INFO [AWT-EventQueue-0] [gtableIntegration.core.core.AbstractApplication.prepareUI(AbstractApplication.java:130)] - Application preparing UI!
+2023-06-19 18:04:06.572 INFO [AWT-EventQueue-0] [gtableIntegration.core.core.AbstractApplication.prepareUI(AbstractApplication.java:138)] - =========================
+2023-06-19 18:04:06.573 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view_started
+2023-06-19 18:04:06.573 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view:SwingBuilderViewId
+2023-06-19 18:04:06.573 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.perspective.DefaultPerspective.debugJustInCase(DefaultPerspective.java:81)] - add_view_started
+2023-06-19 18:04:06.596 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.perspective.DefaultPerspective.debugJustInCase(DefaultPerspective.java:81)] - add_view_finished
+2023-06-19 18:04:06.596 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view_finished
+2023-06-19 18:04:06.596 INFO [AWT-EventQueue-0] [gtableIntegration.core.core.AbstractApplication.prepareUI(AbstractApplication.java:138)] - =========================
+2023-06-19 18:04:06.596 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view_started
+2023-06-19 18:04:06.596 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view:TableViewId
+2023-06-19 18:04:06.596 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.perspective.DefaultPerspective.debugJustInCase(DefaultPerspective.java:81)] - add_view_started
+2023-06-19 18:04:06.597 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.perspective.DefaultPerspective.debugJustInCase(DefaultPerspective.java:81)] - add_view_finished
+2023-06-19 18:04:06.597 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view_finished
+2023-06-19 18:04:06.597 INFO [AWT-EventQueue-0] [gtableIntegration.core.core.AbstractApplication.initUI(AbstractApplication.java:151)] - Application UI initializing!
+2023-06-19 18:04:06.600 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - arrange_views_started
+2023-06-19 18:04:06.600 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - is_not_null_but_is_empty
+2023-06-19 18:04:06.600 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - arrange_views_finished
+2023-06-19 18:04:06.600 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view_started
+2023-06-19 18:04:06.600 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view:rootViewId
+2023-06-19 18:04:06.601 INFO [AWT-EventQueue-0] [gtableIntegration.core.view.AbstractViewManager.debugJustInCase(AbstractViewManager.java:100)] - add_view_finished
+2023-06-19 18:04:10.299 INFO [AWT-EventQueue-0] [gtableIntegration.core.core.AbstractApplication.close(AbstractApplication.java:98)] - Application_closing!

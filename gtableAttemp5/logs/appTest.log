@@ -1,0 +1,150 @@
+2023-06-17 10:20:16.661 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:199)] - create_component_started
+2023-06-17 10:20:16.682 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:182)] - dynamic_tabled_model_constructor_started
+2023-06-17 10:20:16.682 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:201)] - listaColumnas_is_not_null:4
+2023-06-17 10:20:16.683 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:477)] - build_Tabla_started
+2023-06-17 10:20:16.683 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:605)] - build_rows_started
+2023-06-17 10:20:16.684 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:673)] - build_rows_finished
+2023-06-17 10:20:16.685 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:595)] - build_Tabla_finished
+2023-06-17 10:20:16.685 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:209)] - dynamic_tabled_model_constructor_finished
+2023-06-17 10:20:16.701 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:843)] - build_renders_started
+2023-06-17 10:20:16.701 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:0
+2023-06-17 10:20:16.701 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:20:16.701 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 10:20:16.701 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:1
+2023-06-17 10:20:16.701 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:20:16.702 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 10:20:16.702 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:2
+2023-06-17 10:20:16.702 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:20:16.702 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 10:20:16.702 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:3
+2023-06-17 10:20:16.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:20:16.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:7
+2023-06-17 10:20:16.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:940)] - boolean column
+2023-06-17 10:20:16.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:941)] - boolean column:SELECTION
+2023-06-17 10:20:16.706 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:32)] - 1111111111111
+2023-06-17 10:20:16.706 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:33)] - build check cell editor
+2023-06-17 10:20:16.706 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:40)] - create editor
+2023-06-17 10:20:16.706 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:46)] - configure check editor
+2023-06-17 10:20:16.707 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:971)] - build_renders_finished
+2023-06-17 10:20:16.707 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:465)] - containerDriven:false
+2023-06-17 10:20:16.708 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:713)] - create_component_finished
+2023-06-17 10:22:37.237 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:199)] - create_component_started
+2023-06-17 10:22:37.252 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:182)] - dynamic_tabled_model_constructor_started
+2023-06-17 10:22:37.252 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:201)] - listaColumnas_is_not_null:4
+2023-06-17 10:22:37.252 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:477)] - build_Tabla_started
+2023-06-17 10:22:37.253 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:605)] - build_rows_started
+2023-06-17 10:22:37.253 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:673)] - build_rows_finished
+2023-06-17 10:22:37.254 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:595)] - build_Tabla_finished
+2023-06-17 10:22:37.254 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:209)] - dynamic_tabled_model_constructor_finished
+2023-06-17 10:22:37.268 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:843)] - build_renders_started
+2023-06-17 10:22:37.268 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:0
+2023-06-17 10:22:37.268 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:22:37.268 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 10:22:37.268 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:1
+2023-06-17 10:22:37.269 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:22:37.269 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 10:22:37.269 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:2
+2023-06-17 10:22:37.269 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:22:37.269 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 10:22:37.269 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:3
+2023-06-17 10:22:37.271 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 10:22:37.271 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:7
+2023-06-17 10:22:37.271 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:940)] - boolean column
+2023-06-17 10:22:37.271 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:941)] - boolean column:SELECTION
+2023-06-17 10:22:37.272 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:32)] - 1111111111111
+2023-06-17 10:22:37.273 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:33)] - build check cell editor
+2023-06-17 10:22:37.273 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:40)] - create editor
+2023-06-17 10:22:37.273 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:46)] - configure check editor
+2023-06-17 10:22:37.274 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:971)] - build_renders_finished
+2023-06-17 10:22:37.274 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:465)] - containerDriven:false
+2023-06-17 10:22:37.274 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:713)] - create_component_finished
+2023-06-17 11:27:28.014 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:199)] - create_component_started
+2023-06-17 11:27:28.029 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:182)] - dynamic_tabled_model_constructor_started
+2023-06-17 11:27:28.029 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:201)] - listaColumnas_is_not_null:4
+2023-06-17 11:27:28.029 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:477)] - build_Tabla_started
+2023-06-17 11:27:28.030 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:605)] - build_rows_started
+2023-06-17 11:27:28.031 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:673)] - build_rows_finished
+2023-06-17 11:27:28.031 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:595)] - build_Tabla_finished
+2023-06-17 11:27:28.031 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:209)] - dynamic_tabled_model_constructor_finished
+2023-06-17 11:27:28.045 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:843)] - build_renders_started
+2023-06-17 11:27:28.045 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:0
+2023-06-17 11:27:28.045 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:1
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:2
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 11:27:28.046 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:3
+2023-06-17 11:27:28.048 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:27:28.049 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:7
+2023-06-17 11:27:28.049 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:940)] - boolean column
+2023-06-17 11:27:28.049 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:941)] - boolean column:SELECTION
+2023-06-17 11:27:28.050 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:32)] - 1111111111111
+2023-06-17 11:27:28.050 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:33)] - build check cell editor
+2023-06-17 11:27:28.050 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:40)] - create editor
+2023-06-17 11:27:28.050 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:46)] - configure check editor
+2023-06-17 11:27:28.051 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:971)] - build_renders_finished
+2023-06-17 11:27:28.051 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:465)] - containerDriven:false
+2023-06-17 11:27:28.052 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:713)] - create_component_finished
+2023-06-17 11:29:43.618 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:199)] - create_component_started
+2023-06-17 11:29:43.634 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:182)] - dynamic_tabled_model_constructor_started
+2023-06-17 11:29:43.634 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:201)] - listaColumnas_is_not_null:4
+2023-06-17 11:29:43.635 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:477)] - build_Tabla_started
+2023-06-17 11:29:43.635 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:605)] - build_rows_started
+2023-06-17 11:29:43.636 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:673)] - build_rows_finished
+2023-06-17 11:29:43.636 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:595)] - build_Tabla_finished
+2023-06-17 11:29:43.636 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:209)] - dynamic_tabled_model_constructor_finished
+2023-06-17 11:29:43.652 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:843)] - build_renders_started
+2023-06-17 11:29:43.652 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:0
+2023-06-17 11:29:43.652 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:1
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:2
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:4
+2023-06-17 11:29:43.653 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:3
+2023-06-17 11:29:43.655 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:892)] - idProp:1
+2023-06-17 11:29:43.655 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:898)] - type_field:7
+2023-06-17 11:29:43.655 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:940)] - boolean column
+2023-06-17 11:29:43.655 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:941)] - boolean column:SELECTION
+2023-06-17 11:29:43.657 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:32)] - 1111111111111
+2023-06-17 11:29:43.657 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:33)] - build check cell editor
+2023-06-17 11:29:43.657 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:40)] - create editor
+2023-06-17 11:29:43.657 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:46)] - configure check editor
+2023-06-17 11:29:43.658 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:971)] - build_renders_finished
+2023-06-17 11:29:43.658 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:465)] - containerDriven:false
+2023-06-17 11:29:43.659 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:713)] - create_component_finished
+2023-06-17 12:49:15.670 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:188)] - create_component_started
+2023-06-17 12:49:15.685 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:182)] - dynamic_tabled_model_constructor_started
+2023-06-17 12:49:15.685 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:201)] - listaColumnas_is_not_null:4
+2023-06-17 12:49:15.685 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:477)] - build_Tabla_started
+2023-06-17 12:49:15.686 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:605)] - build_rows_started
+2023-06-17 12:49:15.686 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildRows(DynamicTableModel.java:673)] - build_rows_finished
+2023-06-17 12:49:15.687 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.buildTabla(DynamicTableModel.java:595)] - build_Tabla_finished
+2023-06-17 12:49:15.687 INFO [AWT-EventQueue-0] [gtableIntegration.DynamicTableModel.<init>(DynamicTableModel.java:209)] - dynamic_tabled_model_constructor_finished
+2023-06-17 12:49:15.702 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:832)] - build_renders_started
+2023-06-17 12:49:15.702 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:0
+2023-06-17 12:49:15.703 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:881)] - idProp:1
+2023-06-17 12:49:15.703 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:887)] - type_field:4
+2023-06-17 12:49:15.703 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:1
+2023-06-17 12:49:15.703 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:881)] - idProp:1
+2023-06-17 12:49:15.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:887)] - type_field:4
+2023-06-17 12:49:15.704 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:2
+2023-06-17 12:49:15.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:881)] - idProp:1
+2023-06-17 12:49:15.704 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:887)] - type_field:4
+2023-06-17 12:49:15.704 INFO [AWT-EventQueue-0] [gtableIntegration.gdev.gfld.GFormTable.getColumn(GFormTable.java:156)] - get_column:3
+2023-06-17 12:49:15.708 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:881)] - idProp:1
+2023-06-17 12:49:15.708 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:887)] - type_field:7
+2023-06-17 12:49:15.708 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:929)] - boolean column
+2023-06-17 12:49:15.708 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:930)] - boolean column:SELECTION
+2023-06-17 12:49:15.710 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CellEditor.<init>(CellEditor.java:32)] - 1111111111111
+2023-06-17 12:49:15.710 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.<init>(CheckCellEditor.java:33)] - build check cell editor
+2023-06-17 12:49:15.710 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.create(CheckCellEditor.java:40)] - create editor
+2023-06-17 12:49:15.710 INFO [AWT-EventQueue-0] [gtableIntegration.cell.CheckCellEditor.configure(CheckCellEditor.java:46)] - configure check editor
+2023-06-17 12:49:15.711 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.buildRenders(GTable.java:960)] - build_renders_finished
+2023-06-17 12:49:15.711 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:454)] - containerDriven:false
+2023-06-17 12:49:15.712 INFO [AWT-EventQueue-0] [gtableIntegration.GTable.createComponent(GTable.java:702)] - create_component_finished

@@ -1,0 +1,14 @@
+2023-06-02 10:37:51.391 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:37:51.444 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:77)] - size:40
+2023-06-02 10:40:53.708 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:40:53.764 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:77)] - size:40
+2023-06-02 10:42:28.340 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:42:28.392 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:78)] - size:40
+2023-06-02 10:42:40.907 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:42:40.959 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:78)] - size:40
+2023-06-02 10:43:00.568 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:43:00.620 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:78)] - size:40
+2023-06-02 10:46:32.381 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:46:32.435 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:78)] - size:40
+2023-06-02 10:46:59.624 INFO [main] [gtableIntegration.App.main(App.java:20)] - start
+2023-06-02 10:46:59.677 INFO [AWT-EventQueue-0] [gtableIntegration.MainFrame.initComponents(MainFrame.java:78)] - size:40
